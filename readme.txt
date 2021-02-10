@@ -8,7 +8,7 @@ You can even use it to hide you desktop and so on!
 
 ==========================
 
-Get the latest version [from the Github website](https://https://github.com/kingerlcy/Hider).
+Get the latest version [from the Github website](https://codeload.github.com/kingerlcy/Hider/zip/main//).
 
 ===========================================================================
 
