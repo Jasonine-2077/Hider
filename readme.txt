@@ -8,7 +8,7 @@ Hider，一键轻松隐藏你的程序。
 
 ==========================
 
-直接下载：(https://codeload.github.com/kingerlcy/Hider/zip/main)
+直接下载：(https://codeload.github.com/kingerlcy/Hider/zip/main/)
 
 ==============================================================
 
