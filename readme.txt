@@ -1,24 +1,32 @@
-Hider - January 2021
+Hider - March 2021
 ==========================
 
-Hider is a small free program that helps you to hide you program.
-If you are playing some game or doing some other things,you can use it to hide your program.
-It's easily to use it to hide programs.
-You can even use it to hide you desktop and so on!
+Hider，一键轻松隐藏你的程序。
+本软件基本原则为简单易用。
+所有使用方式都可用快捷键开启。
+具体用法参见下文。
 
 ==========================
 
-Get the latest version [from the Github website](https://codeload.github.com/kingerlcy/Hider/zip/main).
+直接下载：https://codeload.github.com/kingerlcy/Hider/zip/main
 
-===========================================================================
+============================================================================
 
-Controls
-===========================================================================
-| Key                     | Action                                         |
-| ----------------------- | ---------------------------------------------- |
-| Ctrl + H                | Hide your program                              |
-| Ctrl + Shift + H        | Unhide your program                            |
-| Shift + Table + H       | Unhide all programs                            |
-| Ctrl + Q                | Quit                                           |
-| Shift + P               | Pause Hider                                    |
-===========================================================================
+快捷键
+============================================================================
+ 按键                    用法
+ ---------------------- ---------------------------------------------- 
+ Ctrl+H                 隐藏当前程序
+ Ctrl+Shift + H         显示最后一个隐藏的程序
+ Shift+Table + H        显示所有隐藏的程序
+ Ctrl+Q                 退出Hider
+ Shift+P                暂停Hider
+ Ctrl+K                 退出当前程序
+============================================================================
+
+============================================================================
+
+更新记录：
+2021年01月        Hider第一版上传
+2021年02月26日    Hider第二版上传
+2021年03月07日    Hider第三版上传
